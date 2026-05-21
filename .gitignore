@@ -35,3 +35,6 @@ Thumbs.db
 
 # Vercel
 .vercel/
+
+# Claude Code 로컬 설정 (개인용)
+.claude/
